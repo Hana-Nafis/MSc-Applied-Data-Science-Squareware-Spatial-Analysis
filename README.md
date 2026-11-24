@@ -1,4 +1,4 @@
-# Applied Data Science – Squareware Spatial Sales Analysis
+# Squareware Spatial Sales Analysis
 
 ## Project Overview
 
